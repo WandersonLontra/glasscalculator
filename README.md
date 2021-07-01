@@ -1,7 +1,7 @@
 # 👓GlassMorphism Calculator
 
 <p align="center">
-    <img width="627" height="789" src="assets/photo.png">
+    <img width="627" height="789" src="/assets/photo.png"/>
 </p>
 
 - ✔️In this project, I use *vanilla tilt js* to create a great effect at the Calculator.
@@ -11,6 +11,7 @@
 
 # 👀Check it out
 
+![glassCalcuator](/assets/example.gif)
 <p align="center">
-    <img width="704" height="382" src="assets/example.gif">
+    <img width="704" height="382" src="/assets/example.gif"/>
 </p>
